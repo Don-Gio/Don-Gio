@@ -1,19 +1,27 @@
+# Hi there, I'm DonGio 👋
 
-  👋 Salut, moi c'est **Raoelinirina Sergio Nantenaina** (alias Momosy13)
+Welcome to my GitHub profile! I'm a DevOps engineer with a passion for automating and optimizing development workflows.
 
-💻 **DevSecOps | Web Performance Optimization (WPO) | IA & Vision par Ordinateur**
+## 🔧 DevOps Engineer Skills
 
-🚀 Passionné par l'optimisation des performances web, la cybersécurité et l'intelligence artificielle appliquée à la vidéosurveillance intelligente.
+- **Systems and Network**
+- **Git**
+- **Docker and Containerization**
+- **Kubernetes and Orchestration**
+- **Jenkins**
+- **Infrastructure as Code (Terraform)**
+- **Monitoring and Logging**
+- **Security and Finishing**
 
-🎯 Toujours en quête de nouveaux défis, notamment en bug bounty, automation et développement de solutions IA.
 
-🔹 Projets en cours :
+## 📈 GitHub Stats
 
- * 🛡️ PEACE – IA pour la protection des parcs nationaux 🌿
- * 🎨 TopiMaso – Studio de création digitale et animation
- * 🔍 Bug Bounty & Pentesting – Sécuriser le web, un bug à la fois
- 
- 📫 Me contacter :
-LinkedIn | Upwork | Freelancer
+![DonGio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Don-Gio&show_icons=true&theme=radical)
 
-🚀 "Hack, Build, Secure & Innovate"
+## 📫 How to reach me
+
+- LinkedIn: [DonGio](https://www.linkedin.com/in/DonGio/)
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
